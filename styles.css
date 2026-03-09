@@ -1,0 +1,26 @@
+.assignment-completion-message {
+    box-sizing: border-box;
+    display: block;
+    position: relative;
+    margin: 0 auto 1.03125em;
+    border-radius: 4px;
+    padding: 1.2em 0.8em;
+    background: #e3f4e4;
+    border: 1px solid #e3f4e4;
+    max-width: 40em;
+    line-height: 1.5em;
+    text-align: center;
+}
+
+.assignment-completion-message .assignment-completion-message-title {
+    color: inherit;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.375em;
+    margin: 0 auto 1.03125em;
+    max-width: 24em;
+}
+
+.assignment-completion-message .assignment-completion-message-description {
+    margin-top: -0.51562em;
+}
