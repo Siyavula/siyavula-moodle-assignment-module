@@ -18,7 +18,7 @@
  * Prints an instance of mod_siyavulaassignment.
  *
  * @package     mod_siyavulaassignment
- * @copyright   2025 Siyavula
+ * @copyright   2026 Siyavula
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

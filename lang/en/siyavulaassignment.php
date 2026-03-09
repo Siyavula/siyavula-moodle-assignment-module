@@ -19,7 +19,7 @@
  *
  * @package     mod_siyavulaassignment
  * @category    string
- * @copyright   2025 Siyavula
+ * @copyright   2026 Siyavula
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
